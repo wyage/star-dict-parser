@@ -7,7 +7,7 @@ import java.io.IOException;
 
 /**
  * byte[] functionality
- * @author olaf@merkert.de
+ * @author olaf@merkert.de, beethoven99@126.com 
  */
 public class ByteArrayHelper {
 
