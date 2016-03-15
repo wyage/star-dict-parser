@@ -8,6 +8,6 @@ be a trivial task. Star-dict-parser can relieve you from some programming and de
 
 It is expected to run smoothly on Java platforms, including Java SE, Android, etc.
 
-It has already powered the project <a href="https://github.com/sandbox99/avedict">https://github.com/sandbox99/avedict</a>.
+It has already powered the project <a href="https://github.com/wyage/avedict">https://github.com/wyage/avedict</a>.
 
 Wishing it be useful to you!
